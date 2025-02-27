@@ -2,7 +2,7 @@
 // Database connection details
 $servername = "localhost"; // Change if using a remote database
 $username = "root";        // Your MySQL username
-$password = "";            // Your MySQL password
+$password = "UserRoot!";            // Your MySQL password
 $database = "mydatabase";  // Your database name
 
 // Create connection
